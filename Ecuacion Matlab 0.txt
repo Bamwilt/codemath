@@ -1,0 +1,22 @@
+disp('MATLAB ECUACION')
+
+ ecuacion= 
+ soluciones = solve(ecuacion,);
+ disp('Las soluciones de la ecuación son:');
+ disp(soluciones);
+ ecuacion= 
+ soluciones = solve(ecuacion,);
+ disp('Las soluciones de la ecuación son:');
+ disp(soluciones);
+ ecuacion= 
+ soluciones = solve(ecuacion,);
+ disp('Las soluciones de la ecuación son:');
+ disp(soluciones);
+ ecuacion= 
+ soluciones = solve(ecuacion,);
+ disp('Las soluciones de la ecuación son:');
+ disp(soluciones);
+ ecuacion= 
+ soluciones = solve(ecuacion,);
+ disp('Las soluciones de la ecuación son:');
+ disp(soluciones);

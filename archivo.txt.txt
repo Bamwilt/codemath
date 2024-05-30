@@ -1,0 +1,5 @@
+
+ ecuacion= 
+ soluciones = solve(ecuacion,);
+ disp('Las soluciones de la ecuación son:');
+ disp(soluciones);
